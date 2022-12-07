@@ -18,7 +18,7 @@
   "author": "Jonathan Arreola",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "redis": "^3.0.2",
     "share": "^0.7.40"
   },
